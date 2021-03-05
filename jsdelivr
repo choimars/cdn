@@ -1,7 +1,7 @@
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/choimars/cdn/web-default/reset.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/choimars/cdn/web-default/box-sizing.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/choimars/cdn/web-default/web-font.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/choimars/cdn/web-default/ir.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/choimars/cdn/default-style/reset.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/choimars/cdn/default-style/box-sizing.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/choimars/cdn/default-style/web-font.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/choimars/cdn/default-style/ir.css">
 
     <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.jsdelivr.net/gh/choimars/cdn/triangles/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.jsdelivr.net/gh/choimars/cdn/triangles/favicon/favicon-32x32.png">
