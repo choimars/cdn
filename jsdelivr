@@ -12,7 +12,14 @@
     <meta name="theme-color" content="#ffffff">
 
 
+!!! jsdelivr Service 는 git Repository size 50M 이하일 때만 정상적으로 작동한다.!!!!!!!!!!!!!!!!
+
 --PNG 파일
 <img src="https://cdn.jsdelivr.net/gh/choimars/cdn/triangles/logos/Triangles-logo_shadow.png" alt="">
--- svg 
+https://cdn.jsdelivr.net/gh/choimars/cdn/Images/temporary/icon.png
+
+
 https://cdn.jsdelivr.net/gh/choimars/cdn/triangles/logos/Triangles-logo-white.svg
+
+-- gitHub Direct 
+https://raw.githubusercontent.com/choimars/cdn/master/Images/temporary/icon.png
