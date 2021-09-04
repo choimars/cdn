@@ -1,6 +1,7 @@
 # Image
 ## White SVG Logo
 https://cdn.jsdelivr.net/gh/choimars/cdn/triangles/logos/Triangles-logo-white.svg
+![White SVG Logo](https://cdn.jsdelivr.net/gh/choimars/cdn/triangles/logos/Triangles-logo-white.svg)
 
 ## White SVG nonTypo
 https://cdn.jsdelivr.net/gh/choimars/cdn/cdn/triangles/logos/Triangles-logo-nonTypo.svg
