@@ -4,8 +4,8 @@ https://cdn.jsdelivr.net/gh/choimars/cdn/triangles/logos/Triangles-logo-white.sv
 ![White SVG Logo](https://cdn.jsdelivr.net/gh/choimars/cdn/triangles/logos/Triangles-logo-white.svg)
 
 ## White SVG nonTypo
-https://cdn.jsdelivr.net/gh/choimars/cdn/cdn/triangles/logos/Triangles-logo-nonTypo.svg
-![White SVG nonTypo](https://cdn.jsdelivr.net/gh/choimars/cdn/cdn/triangles/logos/Triangles-logo-nonTypo.svg)
+https://cdn.jsdelivr.net/gh/choimars/cdn/triangles/logos/Triangles-logo-nonTypo.svg
+![White SVG nonTypo](https://cdn.jsdelivr.net/gh/choimars/cdn/triangles/logos/Triangles-logo-nonTypo.svg)
 
 
 ## logo PNG 1680x425
