@@ -21,6 +21,8 @@ https://cdn.jsdelivr.net/gh/choimars/cdn/triangles/logos/Triangles-logo_nonTypo_
 https://cdn.jsdelivr.net/gh/choimars/cdn/triangles/logos/Triangles-logo_shadow.png
 ![logo PNG Logo shadow](https://cdn.jsdelivr.net/gh/choimars/cdn/triangles/logos/Triangles-logo_shadow.png)
 
+## Web Style 
+https://cdn.jsdelivr.net/gh/choimars/cdn/default-style/reset.css
 
 
 
